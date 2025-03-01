@@ -1,4 +1,20 @@
 ## Hi there 👋
+My name is Diogo and I'm a CS Major @ Dartmouth College. 
+
+### 🔭 I’m currently working on...
+- [ ] [ZCC](https://github.com/diogoos/zcc): a lexer, parser, and compiler for C written from scratch
+- [ ] [SimpleLib](https://github.com/diogoos/simplelib): a collection of essential algorithms written in C
+- [ ] [QuickNote](https://github.com/diogoos/quicknote): a native, light-weight markdown editor app for MacOS
+
+### 💬 My past projects include...
+- [x] [WorkoutGuide](https://github.com/diogoos/workoutguide): a workout tracker app for iOS and Apple Watch, written in SwiftUI
+- [x] [Daily](https://github.com/diogoos/daily): an open-source journaling iOS app, using MapKit & CoreData
+- [x] Many more, soon to be archived on Github
+
+### ⚡Research & awards...
+- Apple Swift Student Challenge prize winner - 2020 & 2021
+- Math Olympiads, most notably: [OMU 2021](https://admin.omu.preface.com.br/storage/uploads/2021/09/05/6134d9839931cPremiados-ALFA_Para-Divulgar.pdf) (2nd place) and PWMTC (2st place)
+- [Data Science & Migration](https://github.com/diogoos/datasci-migration): a predictive-modelling journal created in Python for a UChicago Summer course. Paper available [here](#)
 
 <!--
 **diogoos/diogoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
