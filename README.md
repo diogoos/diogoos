@@ -13,8 +13,11 @@ My name is Diogo and I'm a CS Major @ Dartmouth College.
 
 ### ⚡Research & awards...
 - Apple Swift Student Challenge prize winner - 2020 & 2021
-- Math Olympiads, most notably: [OMU 2021](https://admin.omu.preface.com.br/storage/uploads/2021/09/05/6134d9839931cPremiados-ALFA_Para-Divulgar.pdf) (2nd place) and PWMTC (2st place)
-- [Data Science & Migration](https://github.com/diogoos/datasci-migration): a predictive-modelling journal created in Python for a UChicago Summer course. Paper available [here](#)
+- Math Olympiads, most notably: [OMU 2021](https://admin.omu.preface.com.br/storage/uploads/2021/09/05/6134d9839931cPremiados-ALFA_Para-Divulgar.pdf) (Silver medal, team) and PWMTC (2st place, individual)
+- [Data Science & Migration](https://github.com/diogoos/datasci-migration): a predictive-modelling journal created in Python for a UChicago Summer course. Paper available [here](uchicago.pdf)
+
+### 📫 View also my:
+[Resumé](resume.pdf) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/diogo-bortoletto-silva) &nbsp; | &nbsp; [StackOverflow](https://stackoverflow.com/users/14010807/diogo)
 
 <!--
 **diogoos/diogoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
